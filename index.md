@@ -4,8 +4,6 @@ layout: default
 
 # Welcome to Peoples' Rights
 
-We an organization dedicated to defend civil rights, we protect enforceable right or privilege, which if interfered with by another gives rise to an action for injury. 
-
 We also take on discrimination, and that occurs when the civil rights of an individual are denied or interfered with because of the individual's membership in a particular group or class. Various jurisdictions have enacted statutes to prevent discrimination based on a person's race, sex, religion, age, previous condition of servitude, physical limitation, national origin, and in some instances sexual orientation.
 
 Our cases are by referral only either by private individuals or other Organizations.  We are not open to the public,  we are privately funded and we do not receive any governmental financial help or privilege. 
