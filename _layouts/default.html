@@ -27,7 +27,6 @@
         </ul>
 
         {% if site.github.is_project_page %}
-          <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
 
         {% if site.github.is_user_page %}
@@ -41,9 +40,7 @@
         {{ content }}
       </section>
 
-      <footer>
-        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
-      </footer>
+      
     </div>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
     {% if site.google_analytics %}
