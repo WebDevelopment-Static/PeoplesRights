@@ -2,6 +2,11 @@
 layout: default
 ---
 
+
+## We will like to clarify the differnece between, Civil Rights and Civil Liberties.
+
+People often confuse civil rights and civil liberties. Civil rights refer to legal provisions that stem from notions of equality. Civil rights are not in the Bill of Rights; they deal with legal protections. For example, the right to vote is a civil right. A civil liberty, on the other hand, refers to personal freedoms protected by the Bill of Rights. For example, the First Amendment's right to free speech is a civil liberty.
+
 # Welcome to Peoples' Rights
 
 We also take on discrimination, when the civil rights of an individual are denied or interfered with because of the individual's membership in a particular group or class. Various jurisdictions have enacted statutes to prevent discrimination based on a person's race, sex, religion, age, previous condition of servitude, physical limitation, national origin, and in some instances sexual orientation.
@@ -9,11 +14,6 @@ We also take on discrimination, when the civil rights of an individual are denie
 Our cases are by referral only, either by private individuals or other organizations, our work is done Pro-Bono.  We are not open to the public,  we are privately funded and we do not receive any governmental financial help or privilege. 
 
 # On January 24th, 2019 we initiated efforts on behalf of the workers from the Fyre Festival, Bahamas 2017, seeking significant material damages on their behalf. A class action will be filed in the United States Court against those who profit in any way from this event.      
-
-
-## We will like to clarify the differnece between, Civil Rights and Civil Liberties.
-
-People often confuse civil rights and civil liberties. Civil rights refer to legal provisions that stem from notions of equality. Civil rights are not in the Bill of Rights; they deal with legal protections. For example, the right to vote is a civil right. A civil liberty, on the other hand, refers to personal freedoms protected by the Bill of Rights. For example, the First Amendment's right to free speech is a civil liberty.
 
 
 ## Reconstruction Amendments
