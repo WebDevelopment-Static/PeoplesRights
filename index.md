@@ -8,8 +8,7 @@ We also take on discrimination, when the civil rights of an individual are denie
 
 Our cases are by referral only, either by private individuals or other organizations, our work is done Pro-Bono.  We are not open to the public,  we are privately funded and we do not receive any governmental financial help or privilege. 
 
-# Today, January 24th, 2019 we initiated efforts on behalf of the workers from the Fyre Festival, Bahamas 2017, seeking significant material damages on their behalf. A class action will be filed in the United States Court against those who profit in any way from this event. 
-### Please be aware of Updates __ While a class action represents all those belonging to that class, we will need each individual's work schedule at the Fyre Festival.  To submit a detail schedule we will make an electronic sheet available in this page in the next days, also we are planning to visit the island and take account of the individuals as we recognize not everyone may have access to computers. We have contact Bahamas' authorities and we are hopeful we can get the public's help.     
+# On January 24th, 2019 we initiated efforts on behalf of the workers from the Fyre Festival, Bahamas 2017, seeking significant material damages on their behalf. A class action will be filed in the United States Court against those who profit in any way from this event.      
 
 
 ## We will like to clarify the differnece between, Civil Rights and Civil Liberties.
