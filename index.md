@@ -101,6 +101,6 @@ ABA Section of Individual Rights & Responsibilities
 
 If you have any questions regarding this website please contact webmaster@peoples-rights.org
 
-If you have a question regarding our organization please write us at :
+If you have a question regarding our organization, please write to :
 
 ##### Peoples' Rights Organization,  220 East 42 Street, 10th floor, New York, NY 10036
