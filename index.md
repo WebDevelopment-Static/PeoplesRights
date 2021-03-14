@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## On January 24th, 2019 we initiated efforts on behalf of the workers from the Fyre Festival, Bahamas 2017, seeking significant material damages on their behalf. A class action will be filed in the United States Court against those who profit in any way from this event. 
+ 
 
 # Welcome to Peoples' Rights
       
